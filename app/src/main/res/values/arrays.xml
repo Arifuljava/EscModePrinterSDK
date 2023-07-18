@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="papersize">
+    <item>Gap</item>
+    <item>Transparent</item>
+</string-array>
+</resources>

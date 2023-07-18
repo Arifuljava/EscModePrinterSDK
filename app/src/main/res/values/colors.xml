@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    ///colorlight
+    <color name="green">#00c853</color>
+    <color name="colorPrimary">#039BE6</color>
+    <color name="colorPrimaryDark">#039BE6</color>
+    <color name="colorAccent">#039BE6</color>
+
+    <color name="errorColor">#B71C1C</color>
+    <color name="infoColor">#0F4C81</color>
+    <color name="successColor">#4CAF50</color>
+
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+</resources>
